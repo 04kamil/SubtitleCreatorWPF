@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3TagEditorWPF", "MP3TagEditorWPF\MP3TagEditorWPF.csproj", "{FA4C7B6B-F0EE-4581-8FC2-B8A2C30C19D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTitleCreator", "MP3TagEditorWPF\SubTitleCreator.csproj", "{FA4C7B6B-F0EE-4581-8FC2-B8A2C30C19D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
